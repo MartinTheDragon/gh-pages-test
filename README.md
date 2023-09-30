@@ -1,3 +1,3 @@
 # gh-pages-test
 
-[link to another doc](document.md)
+[link to another doc](document)
